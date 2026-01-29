@@ -34,13 +34,13 @@ We introduce **MOVA** (**MO**SS **V**ideo and **A**udio), a foundation model des
 Single person speech:
 <details>
   <summary>Click to expand</summary>
-  <video src="https://github.com/user-attachments/assets/9a3e156f-10bb-4098-9257-37f65b210fa8" width="70%"></video>
+  <video src="https://gist.github.com/user-attachments/assets/118a6597-054b-4bb9-812a-c225e93f12f7" width="70%"></video>
 </details>
 
 Multi-person speech:
 <details>
   <summary>Click to expand</summary>
-  <video src="https://github.com/user-attachments/assets/a2e34bf5-2983-4c85-a338-ab1bd3f9576b" width="70%"></video>
+  <video src="https://gist.github.com/user-attachments/assets/a11b1d1e-b0da-4c45-9aeb-c74a64131b6d" width="70%"></video>
 </details>
 
 View more demos on our [website](https://mosi.cn/models/mova).
